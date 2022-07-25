@@ -6,3 +6,111 @@ Green: #00B172
 White: #FFF
 
 */
+
+* {
+  padding: 0;
+margin: 0;
+font-family: 'Lato', sans-serif;
+}
+
+.navbar li {  
+  float: right;
+  margin-left: 20px;
+  display: inline-block;
+  margin-bottom: 10px;
+  }
+  
+  .navbar img { width: 20px;
+  height: auto;
+}
+
+div a{
+  text-decoration:none;
+  color:inherit;
+  font-size:14px;
+} 
+
+h1 { text-align: center;
+  margin-top: 100px;}
+  h3 { 
+  line-height : 25px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 60px;
+  }
+  
+  .contenedor {
+  border-top: 30px solid white;
+  color: red;
+  hight: 300px;
+  weight: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  }
+
+#whatson {
+  font-family: Varela Round;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.parent {
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+  display: grid;
+  grid-template-columns: 50fr 50fr 50fr;
+  grid-template-rows: 200px 50px;
+  grid-gap: 20px;
+}
+
+.parent > div {
+
+padding: 50px;
+
+}
+
+.minititl { font-family: Varela Round;
+font-size: 16px;
+color: #00B172;
+margin-bottom: 10px;}
+
+.box1 { font-family: Varela Round;
+font-size: 14px;}
+.box2 { font-family: Varela Round;
+font-size: 14px;}
+.box3 { font-family: Varela Round;
+font-size: 14px;}
+
+section { color: white;
+  background-color: #00B172;
+  }
+
+#titulo {font-weight: bold;
+color: 
+margin-bottom: 15px;
+margin-left: 50px;
+font-size: 20px;}
+
+.titulo2 {font-size: 16px;
+margin-top: 10px; margin-bottom: 10px;
+margin-left: 50px;
+}
+
+.contenido {margin-left: 50px;
+margin-right: 535px;
+font-size: 14px;
+line-height : 25px;
+}
+
+.img1 { float: right;}
+.img2 { float: center;}
+
+
+
+  
+
+

@@ -20,8 +20,9 @@ font-family: 'Lato', sans-serif;
   margin-bottom: 10px;
   }
   
-  .navbar img { width: 20px;
+  .navbar img { width: 150px;
   height: auto;
+  margin-top: 20px;
 }
 
 div a{
@@ -79,11 +80,23 @@ color: #00B172;
 margin-bottom: 10px;}
 
 .box1 { font-family: Varela Round;
-font-size: 14px;}
+font-size: 14px;
+}
+
+.box1 img { width: 80px;
+height: auto;}
+
 .box2 { font-family: Varela Round;
 font-size: 14px;}
+
+.box2 img { width: 80px;
+height: auto;}
+
 .box3 { font-family: Varela Round;
 font-size: 14px;}
+
+.box3 img { width: 80px;
+height: auto;}
 
 section { color: white;
   background-color: #00B172;
@@ -106,8 +119,16 @@ font-size: 14px;
 line-height : 25px;
 }
 
-.img1 { float: right;}
-.img2 { float: center;}
+.img1 img { float: right;
+width: 350px;;
+height: auto;
+}
+
+.img2 img { float:none;
+  margin-left: 200px;
+width: 70px;
+height: auto;
+}
 
 
 
